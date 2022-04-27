@@ -15,7 +15,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 ● It helps developers in faster coding, in-turn reduces development cost.
 
 
-We used a javascript library jpdb-commons.js that is used to create requests and do ajax calls and help programmers to focus mainly on their page logic.
+# We used a javascript library jpdb-commons.js that is used to create requests and do ajax calls and help programmers to focus mainly on their page logic.
 
 # And remove following two functions from the page: 
 ● createPUTRequest()
