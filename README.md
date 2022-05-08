@@ -22,7 +22,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 ● executeCommand()
 
 Use following javascript at the beginning below the other javascripts.
-<script src="http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js"></script>
+
 
 Rename the method call "executeCommand()" in saveEmployee() method to executeCommandAtGivenBaseUrl()
 
